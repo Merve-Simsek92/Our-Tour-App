@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Our-Tour-App/static/css/main.11b66ec1.css",
+    "main.js": "/Our-Tour-App/static/js/main.ca6cdbd9.js",
+    "static/js/787.89e80556.chunk.js": "/Our-Tour-App/static/js/787.89e80556.chunk.js",
+    "index.html": "/Our-Tour-App/index.html",
+    "main.11b66ec1.css.map": "/Our-Tour-App/static/css/main.11b66ec1.css.map",
+    "main.ca6cdbd9.js.map": "/Our-Tour-App/static/js/main.ca6cdbd9.js.map",
+    "787.89e80556.chunk.js.map": "/Our-Tour-App/static/js/787.89e80556.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11b66ec1.css",
+    "static/js/main.ca6cdbd9.js"
+  ]
+}
