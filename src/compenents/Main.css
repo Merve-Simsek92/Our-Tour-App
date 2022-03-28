@@ -23,6 +23,11 @@
 .price{
     color:rgb(37, 116, 219);
 }
+a{
+    text-decoration: none;
+    color:rgb(37, 116, 219);
+
+}
 
 .desc{
     color:#617d98;
